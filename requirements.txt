@@ -1,0 +1,11 @@
+conda env = myenv python 3.9
+polyscope
+glfw
+numpy
+numpy 
+scipy 
+pygeodesic 
+ipywidgets 
+pyopengl
+conda install -c conda-forge igl
+conda install -c conda-forge meshplot
