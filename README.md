@@ -54,7 +54,7 @@ conda install -c conda-forge meshplot
 1. Clone the repository:
 
 ```bash
-git clone <your_repository_url>
+git clone https://github.com/Rtfarchitect/b-spline-editor-in-python
 ```
 
 2. Create and activate the conda environment:
